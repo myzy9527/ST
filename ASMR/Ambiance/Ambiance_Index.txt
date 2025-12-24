@@ -1,0 +1,4 @@
+Ambiance_夏日_中距蝉鸣_中距乌鸦叫=https://media.githubusercontent.com/media/myzy9527/ST/main/ASMR/Ambiance/Ambiance_%E5%A4%8F%E6%97%A5_%E4%B8%AD%E8%B7%9D%E8%9D%89%E9%B8%A3_%E4%B8%AD%E8%B7%9D%E4%B9%8C%E9%B8%A6%E5%8F%AB.mp3=栖星=100=N/A
+Ambiance_夏日_近处蝉鸣_近处乌鸦叫=https://media.githubusercontent.com/media/myzy9527/ST/main/ASMR/Ambiance/Ambiance_%E5%A4%8F%E6%97%A5_%E8%BF%91%E5%A4%84%E8%9D%89%E9%B8%A3_%E8%BF%91%E5%A4%84%E4%B9%8C%E9%B8%A6%E5%8F%AB.mp3=栖星=100=N/A
+Ambiance_夏日_近处蝉鸣_远处乌鸦叫=https://media.githubusercontent.com/media/myzy9527/ST/main/ASMR/Ambiance/Ambiance_%E5%A4%8F%E6%97%A5_%E8%BF%91%E5%A4%84%E8%9D%89%E9%B8%A3_%E8%BF%9C%E5%A4%84%E4%B9%8C%E9%B8%A6%E5%8F%AB.mp3=栖星=100=N/A
+Ambiance_夏日_远处蝉鸣_远处乌鸦叫=https://media.githubusercontent.com/media/myzy9527/ST/main/ASMR/Ambiance/Ambiance_%E5%A4%8F%E6%97%A5_%E8%BF%9C%E5%A4%84%E8%9D%89%E9%B8%A3_%E8%BF%9C%E5%A4%84%E4%B9%8C%E9%B8%A6%E5%8F%AB.mp3=栖星=100=N/A
